@@ -27,14 +27,14 @@ const Contact = () => {
     {
       icon: <Linkedin size={24} className="text-primary-500" />,
       title: 'LinkedIn',
-      content: 'https://www.linkedin.com/in/chandan-r-u-290512257/',
-      link: 'https://linkedin.com',
+      content: 'https://www.linkedin.com',
+      link: 'https://linkedin.com/in/chandan-r-u-290512257/',
     },
     {
       icon: <Github size={24} className="text-primary-500" />,
       title: 'GitHub',
-      content: 'https://github.com/chandanru',
-      link: 'https://github.com',
+      content: 'https://github.com',
+      link: 'https://github.com/chandanru',
     },
   ];
 
