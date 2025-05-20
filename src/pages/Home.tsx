@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { ArrowRight, Download, Github as GitHub, Linkedin, Mail } from 'lucide-react';
 import { Link } from 'react-router-dom';
@@ -120,7 +120,7 @@ const Home = () => {
             >
               <div className="relative w-full aspect-square rounded-full overflow-hidden border-8 border-white shadow-xl animate-float">
                 <img
-                  src="D:\chandan\Portfolio\src\links\chandan.jpg"
+                  src="/chandan.jpg"
                   alt="Chandan R U"
                   className="w-full h-full object-cover"
                 />
@@ -198,7 +198,7 @@ const Home = () => {
                 Get in Touch
               </Link>
               <a
-                href="links/resume.pdf"
+                href="/resume.pdf"
                 className="btn bg-transparent border-2 border-white text-white hover:bg-white/10"
                 target="_blank"
                 rel="noopener noreferrer"
