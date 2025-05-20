@@ -10,7 +10,7 @@ export const experiences: Experience[] = [
   {
     id: 1,
     period: "2025 - Present",
-    title: "Senior AI/ML Engineer",
+    title: " AI/ML Engineer",
     company: "Tech Innovations Inc.",
     description: "Leading the development of machine learning models for computer vision and NLP applications. Designed and implemented an image recognition system that improved accuracy by 15%."
   }
