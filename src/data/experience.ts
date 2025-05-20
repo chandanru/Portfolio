@@ -9,31 +9,10 @@ export interface Experience {
 export const experiences: Experience[] = [
   {
     id: 1,
-    period: "2022 - Present",
+    period: "2025 - Present",
     title: "Senior AI/ML Engineer",
     company: "Tech Innovations Inc.",
     description: "Leading the development of machine learning models for computer vision and NLP applications. Designed and implemented an image recognition system that improved accuracy by 15%."
-  },
-  {
-    id: 2,
-    period: "2020 - 2022",
-    title: "Machine Learning Engineer",
-    company: "DataSmart Solutions",
-    description: "Built and deployed recommendation systems and predictive analytics solutions. Developed a fraud detection system that reduced fraudulent transactions by 32%."
-  },
-  {
-    id: 3,
-    period: "2018 - 2020",
-    title: "Data Scientist",
-    company: "AI Research Labs",
-    description: "Conducted research in natural language processing and sentiment analysis. Published two papers on sentiment analysis techniques in leading AI conferences."
-  },
-  {
-    id: 4,
-    period: "2017 - 2018",
-    title: "Machine Learning Intern",
-    company: "GlobalTech",
-    description: "Assisted in developing deep learning models for speech recognition. Implemented data preprocessing pipeline that improved model training time by 25%."
   }
 ];
 
@@ -48,17 +27,17 @@ export interface Education {
 export const education: Education[] = [
   {
     id: 1,
-    period: "2016 - 2018",
-    degree: "Master of Science in Artificial Intelligence",
-    institution: "Stanford University",
-    description: "Specialized in machine learning and computer vision. Thesis on 'Deep Learning Approaches for Medical Image Analysis'."
+    period: "2021 - 2025",
+    degree: "Bachelor of Engineering (B.E.) in Artificial Intelligence and Machine Learning",
+    institution: "MVJ College of Engineering",
+    description: "Specialized in Artificial intelligence and machine learning.focusing on advanced algorithms, data science, and intelligent system development."
   },
   {
     id: 2,
-    period: "2012 - 2016",
-    degree: "Bachelor of Engineering in Computer Science",
-    institution: "Indian Institute of Technology",
-    description: "Graduated with honors. Final year project on 'Natural Language Processing for Sentiment Analysis'."
+    period: "2019 - 2021",
+    degree: " Senior Secondary School Certificate",
+    institution: "Sri chaitanya",
+    description: "Completed 12th grade with a focus on Physics, Chemistry, Mathematics, and Biology (PCMB) stream."
   }
 ];
 

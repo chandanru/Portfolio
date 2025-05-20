@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { MapPin, Mail, Phone, Linkedin, Github } from 'lucide-react';
 import PageTransition from '../components/ui/PageTransition';
@@ -76,7 +76,7 @@ const Contact = () => {
                 className="space-y-8"
               >
                 <motion.p variants={itemVariants} className="text-gray-600">
-                  I'm interested in freelance opportunities, consulting projects, and full-time positions in AI and machine learning. If you have any questions or want to discuss potential collaborations, don't hesitate to reach out!
+                  I'm interested in freelance opportunities, consulting projects, and full-time positions in AI and machine learning or Data Engineering. If you have any questions or want to discuss potential collaborations, don't hesitate to reach out!
                 </motion.p>
 
                 <motion.div
@@ -121,7 +121,7 @@ const Contact = () => {
           <div className="text-center">
             <h2 className="text-3xl font-bold mb-8">Let's Work Together</h2>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Whether you need help with an AI project, data analysis, or just have questions about machine learning, I'm here to help. Looking forward to hearing from you!
+              Whether you need help with an AI project, data analysis, I'm here to help. Looking forward to hearing from you!
             </p>
           </div>
         </div>

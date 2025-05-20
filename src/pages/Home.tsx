@@ -85,7 +85,7 @@ const Home = () => {
                 className="flex space-x-4 mt-8"
               >
                 <a
-                  href="https://github.com"
+                  href="https://github.com/chandanru"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-full border border-gray-300 text-gray-600 hover:text-primary-600 hover:border-primary-600 transition-colors"
@@ -94,7 +94,7 @@ const Home = () => {
                   <GitHub size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/chandan-r-u-290512257/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 rounded-full border border-gray-300 text-gray-600 hover:text-primary-600 hover:border-primary-600 transition-colors"

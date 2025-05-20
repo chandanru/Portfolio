@@ -45,16 +45,16 @@ const About = () => {
               <SectionTitle title="About Me" />
               <div className="space-y-4 text-gray-600">
                 <p>
-                  I'm Chandan R U, an AI/ML Engineer with a passion for building intelligent systems that solve real-world problems. I've worked on a wide range of projects from computer vision to natural language processing.
+                  I'm Chandan R U, an AI/ML Engineer with a passion for building intelligent systems that solve real-world problems. 
                 </p>
                 <p>
-                  My journey in AI began during my Master's at Stanford University, where I specialized in machine learning algorithms and neural networks. Since then, I've been fortunate to work with innovative companies where I've led teams in developing cutting-edge AI solutions.
+                  My journey in AI began during my Bachelor's at MVJ college of Engineering, where I specialized in artificial intelligence and machine learning algorithms. Since then, I've been fortunate to work with .
                 </p>
                 <p>
-                  I'm particularly passionate about leveraging AI for positive social impact, developing systems that are not only powerful but also ethical and transparent.
+                  I'm passionate about building smart, efficient solutions and always eager to learn new technologies.
                 </p>
                 <p>
-                  When I'm not coding or training models, you'll find me hiking, reading about the latest AI research, or mentoring aspiring data scientists.
+                  My academic journey has allowed me to explore both the theoretical and practical aspects of AI, from machine learning algorithms to backend development. I thrive on challenges and enjoy collaborating with teams to create innovative solutions.
                 </p>
               </div>
               <div className="mt-8">
