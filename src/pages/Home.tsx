@@ -103,7 +103,7 @@ const Home = () => {
                   <Linkedin size={20} />
                 </a>
                 <a
-                  href="mailto:contact@example.com"
+                  href="mailto:chandanronuru@gmail.com"
                   className="p-2 rounded-full border border-gray-300 text-gray-600 hover:text-primary-600 hover:border-primary-600 transition-colors"
                   aria-label="Email Me"
                 >
@@ -120,7 +120,7 @@ const Home = () => {
             >
               <div className="relative w-full aspect-square rounded-full overflow-hidden border-8 border-white shadow-xl animate-float">
                 <img
-                  src="https://images.pexels.com/photos/6156597/pexels-photo-6156597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+                  src="D:\chandan\Portfolio\src\links\chandan.jpg"
                   alt="Chandan R U"
                   className="w-full h-full object-cover"
                 />
@@ -198,7 +198,7 @@ const Home = () => {
                 Get in Touch
               </Link>
               <a
-                href="/resume.pdf"
+                href="links/resume.pdf"
                 className="btn bg-transparent border-2 border-white text-white hover:bg-white/10"
                 target="_blank"
                 rel="noopener noreferrer"

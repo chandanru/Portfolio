@@ -15,25 +15,25 @@ const Contact = () => {
     {
       icon: <Mail size={24} className="text-primary-500" />,
       title: 'Email',
-      content: 'contact@example.com',
+      content: 'chandanronuru@gmail.com',
       link: 'mailto:contact@example.com',
     },
     {
       icon: <Phone size={24} className="text-primary-500" />,
       title: 'Phone',
-      content: '+91 98765 43210',
-      link: 'tel:+919876543210',
+      content: '+91 9481329117',
+      link: 'tel:+919481329117',
     },
     {
       icon: <Linkedin size={24} className="text-primary-500" />,
       title: 'LinkedIn',
-      content: 'linkedin.com/in/chandanru',
+      content: 'https://www.linkedin.com/in/chandan-r-u-290512257/',
       link: 'https://linkedin.com',
     },
     {
       icon: <Github size={24} className="text-primary-500" />,
       title: 'GitHub',
-      content: 'github.com/chandanru',
+      content: 'https://github.com/chandanru',
       link: 'https://github.com',
     },
   ];

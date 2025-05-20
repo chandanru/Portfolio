@@ -16,14 +16,14 @@ export const skills: Skill[] = [
   // Frameworks & Libraries
   { name: 'Pandas', percentage: 92, category: 'framework' },
   { name: 'NumPy', percentage: 94, category: 'framework' },
-  { name: 'Keras', percentage: 87, category: 'framework' },
+  
   { name: 'Flask', percentage: 85, category: 'framework' },
-  { name: 'FastAPI', percentage: 80, category: 'framework' },
+ 
   
   // Tools & Technologies
   { name: 'Docker', percentage: 88, category: 'tools' },
   { name: 'Git', percentage: 90, category: 'tools' },
   { name: 'AWS', percentage: 85, category: 'tools' },
   { name: 'SQL', percentage: 87, category: 'tools' },
-  { name: 'Kubernetes', percentage: 75, category: 'tools' },
+ 
 ];

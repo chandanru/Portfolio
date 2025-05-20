@@ -28,7 +28,7 @@ const About = () => {
             >
               <div className="relative rounded-2xl overflow-hidden shadow-xl">
                 <img
-                  src="https://images.pexels.com/photos/5940709/pexels-photo-5940709.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                  src=""
                   alt="Chandan R U"
                   className="w-full object-cover aspect-[4/3]"
                 />
