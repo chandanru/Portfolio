@@ -7,8 +7,9 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
-  },
+  "preview": "vite preview",
+  "start": "concurrently \"npm run start --prefix client\" \"npm run start --prefix server\""
+},
   "dependencies": {
     "framer-motion": "^10.18.0",
     "lucide-react": "^0.344.0",

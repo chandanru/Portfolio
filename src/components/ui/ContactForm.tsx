@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Send, CheckCircle, AlertCircle } from 'lucide-react';
+import { handleSubmitForm } from 'src\lib\handleSubmit';
 
 const ContactForm = () => {
   const [formData, setFormData] = useState({
@@ -49,7 +50,8 @@ const ContactForm = () => {
     
     // Simulate API call
     try {
-      await new Promise((resolve) => setTimeout(resolve, 1500));
+      await handleSubmitForm(formData, setFormStatus, setFormData);
+
       setFormStatus('success');
       setFormData({ name: '', email: '', subject: '', message: '' });
       

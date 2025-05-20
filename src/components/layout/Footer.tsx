@@ -79,7 +79,7 @@ const Footer = () => {
               Bangalore, India
             </p>
             <p className="text-gray-600 mb-2">
-              contact@example.com
+              chandanronuru@gmail.com
             </p>
             <a
               href="links/resume.pdf"
